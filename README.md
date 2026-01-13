@@ -16,6 +16,8 @@ Berpengalaman membangun:
 * Aplikasi **web enterprise & internal tools**
 * Integrasi **ESP8266 / ESP32** dengan backend
 * Automasi server, cronjob, dan notifikasi
+* INTEGRASI ABSEN ZKTECO KE PHP
+* WA BLAZZ/WA GATWAY
 
 Saya terbiasa bekerja dari **requirement → development → deployment → maintenance**.
 
@@ -26,6 +28,8 @@ Saya terbiasa bekerja dari **requirement → development → deployment → main
 ### 🔹 Backend & Web
 
 * PHP (Native, Modular, Secure)
+* LARAVEL
+* NODE JS
 * MySQL / MariaDB
 * REST API
 * Authentication & Token-based System
@@ -36,6 +40,7 @@ Saya terbiasa bekerja dari **requirement → development → deployment → main
 * Apache / Nginx
 * Cronjob & Monitoring
 * Git & GitHub Workflow
+* PROXMOX
 
 ### 🔹 IoT & Network
 
